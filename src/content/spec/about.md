@@ -1,9 +1,11 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
+男性；Java程序员；爱好吃鸡，又菜又爱玩
 
-::github{repo="saicaca/fuwari"}
+### 关于本站
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+没有规矩，一般也不写文，经常的碎碎念都发布在[Mastodon](https://zst.me/@iyo)
+
+### 搭建方案
+- 博客程序：Astro & Fuwari
+- 评论系统：Fuwari还没有，我也没有
+- 图床：Cloudflare R2
