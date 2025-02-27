@@ -21,7 +21,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fuwari-e85.pages.dev/",
+  site: "https://auhouhs.com/",
   base: "/",
   trailingSlash: "always",
   integrations: [
@@ -50,6 +50,7 @@ export default defineConfig({
         "fa6-brands": ["*"],
         "fa6-regular": ["*"],
         "fa6-solid": ["*"],
+        "ic": ["*"],
       },
     }),
     svelte(),
